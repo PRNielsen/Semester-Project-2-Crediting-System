@@ -1,0 +1,8 @@
+
+.idea/
+
+target/
+coverage/
+cc-test-reporter
+
+nb-configuration.xml
